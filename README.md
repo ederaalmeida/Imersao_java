@@ -17,7 +17,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-imersaojava
+[imersaojava]
 
 ## Aula 01 Consumindo uma API de Filmes com Java
 ![1](https://user-images.githubusercontent.com/52221752/179817534-9f51ddad-42e4-4e65-80e9-5c357f2ba32c.PNG)
